@@ -4,5 +4,6 @@ def evenOdd(num):
     else:
         print("Num is odd")
 
-        evenOdd(5)
-        evenOdd(10)
+# Fix is here
+evenOdd(5)
+evenOdd(10)
