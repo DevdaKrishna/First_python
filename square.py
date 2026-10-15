@@ -1,5 +1,5 @@
 def squareNb(num):
-    return num*num;
+    return num * num
 
-total=squareNb(5)
+total = squareNb(5)
 print(total)
